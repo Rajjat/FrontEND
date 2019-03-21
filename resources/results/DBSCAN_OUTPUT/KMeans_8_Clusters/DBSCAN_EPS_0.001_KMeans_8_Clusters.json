@@ -1,0 +1,410 @@
+dbscan_8_001 = {
+  "numOfClusters" : 24,
+  "clusterSizes" : [ 12, 4, 3, 6, 5, 4, 3, 4, 3, 12, 4, 3, 3, 3, 3, 3, 3, 4, 3, 5, 4, 3, 3, 3 ],
+  "clusters" : [ {
+    "cluster_id" : "6p0",
+    "cluster_id_kmeans" : "0",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.9034277995777,
+      "latitude" : 48.606405000383795
+    }, {
+      "longitude" : 16.9042578995222,
+      "latitude" : 48.605648399699
+    }, {
+      "longitude" : 16.9053796995752,
+      "latitude" : 48.6062544996079
+    }, {
+      "longitude" : 16.9045764994601,
+      "latitude" : 48.605482699788105
+    }, {
+      "longitude" : 16.9042083004734,
+      "latitude" : 48.604676600304195
+    }, {
+      "longitude" : 16.9049900001323,
+      "latitude" : 48.606825500210796
+    }, {
+      "longitude" : 16.9044108996993,
+      "latitude" : 48.6064939998753
+    }, {
+      "longitude" : 16.9055057003045,
+      "latitude" : 48.607391999773
+    }, {
+      "longitude" : 16.9055107003045,
+      "latitude" : 48.607389999773005
+    }, {
+      "longitude" : 16.9053766995752,
+      "latitude" : 48.6062574996079
+    }, {
+      "longitude" : 16.903899099497302,
+      "latitude" : 48.604790000218
+    }, {
+      "longitude" : 16.9049259997748,
+      "latitude" : 48.6059109998847
+    } ]
+  }, {
+    "cluster_id" : "6p0",
+    "cluster_id_kmeans" : "1",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.9057299996784,
+      "latitude" : 48.606148699935595
+    }, {
+      "longitude" : 16.9055200998973,
+      "latitude" : 48.606567399928004
+    }, {
+      "longitude" : 16.9057329996784,
+      "latitude" : 48.606151699935594
+    }, {
+      "longitude" : 16.9054663000063,
+      "latitude" : 48.60750909973709
+    } ]
+  }, {
+    "cluster_id" : "3p0",
+    "cluster_id_kmeans" : "4",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.684697200561203,
+      "latitude" : 48.696502900346495
+    }, {
+      "longitude" : 16.6847266998875,
+      "latitude" : 48.6970320000339
+    }, {
+      "longitude" : 16.6850430993739,
+      "latitude" : 48.6969902004567
+    } ]
+  }, {
+    "cluster_id" : "3p0",
+    "cluster_id_kmeans" : "0",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.631234999715,
+      "latitude" : 48.6676096997942
+    }, {
+      "longitude" : 16.6285173005703,
+      "latitude" : 48.668809499694
+    }, {
+      "longitude" : 16.6300969001413,
+      "latitude" : 48.6678678003059
+    }, {
+      "longitude" : 16.6306621000031,
+      "latitude" : 48.667782899578796
+    }, {
+      "longitude" : 16.629258400519497,
+      "latitude" : 48.668962600027
+    }, {
+      "longitude" : 16.6294845998452,
+      "latitude" : 48.668599899631396
+    } ]
+  }, {
+    "cluster_id" : "6p1",
+    "cluster_id_kmeans" : "0",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.9087069000261,
+      "latitude" : 48.6071383996717
+    }, {
+      "longitude" : 16.9080166001491,
+      "latitude" : 48.606719400076805
+    }, {
+      "longitude" : 16.9073669004009,
+      "latitude" : 48.606820099721205
+    }, {
+      "longitude" : 16.907159800154,
+      "latitude" : 48.6068033003052
+    }, {
+      "longitude" : 16.9070300994903,
+      "latitude" : 48.6067894996336
+    } ]
+  }, {
+    "cluster_id" : "6p1",
+    "cluster_id_kmeans" : "1",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.7875391006602,
+      "latitude" : 48.6019024999545
+    }, {
+      "longitude" : 16.787393599769,
+      "latitude" : 48.601916400214996
+    }, {
+      "longitude" : 16.7864281998657,
+      "latitude" : 48.6015272003282
+    }, {
+      "longitude" : 16.7865084002282,
+      "latitude" : 48.6019122997377
+    } ]
+  }, {
+    "cluster_id" : "3p1",
+    "cluster_id_kmeans" : "4",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.630736600071,
+      "latitude" : 48.6710225002093
+    }, {
+      "longitude" : 16.6304039998076,
+      "latitude" : 48.6713840002031
+    }, {
+      "longitude" : 16.630734600071,
+      "latitude" : 48.6710195002093
+    } ]
+  }, {
+    "cluster_id" : "5p0c6p2",
+    "cluster_id_kmeans" : "0",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.7167630997684,
+      "latitude" : 48.6005607004302
+    }, {
+      "longitude" : 16.7167630997684,
+      "latitude" : 48.6005667004302
+    }, {
+      "longitude" : 16.7167620997684,
+      "latitude" : 48.6005647004302
+    }, {
+      "longitude" : 16.716768099768398,
+      "latitude" : 48.600565700430195
+    } ]
+  }, {
+    "cluster_id" : "3p1",
+    "cluster_id_kmeans" : "0",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.6332105999743,
+      "latitude" : 48.6608937995843
+    }, {
+      "longitude" : 16.632529900074502,
+      "latitude" : 48.6615973996814
+    }, {
+      "longitude" : 16.632834900338,
+      "latitude" : 48.6619677001684
+    } ]
+  }, {
+    "cluster_id" : "0p0",
+    "cluster_id_kmeans" : "0",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.385290900641902,
+      "latitude" : 48.722015099692
+    }, {
+      "longitude" : 16.383893500140502,
+      "latitude" : 48.7214373004094
+    }, {
+      "longitude" : 16.384782699868,
+      "latitude" : 48.7213611003148
+    }, {
+      "longitude" : 16.3849281998886,
+      "latitude" : 48.7228944003159
+    }, {
+      "longitude" : 16.3860028003221,
+      "latitude" : 48.7207994001795
+    }, {
+      "longitude" : 16.3861648005715,
+      "latitude" : 48.7203550995148
+    }, {
+      "longitude" : 16.386224600564,
+      "latitude" : 48.720644599782894
+    }, {
+      "longitude" : 16.3863541002749,
+      "latitude" : 48.7205472001236
+    }, {
+      "longitude" : 16.384789699868,
+      "latitude" : 48.7213621003148
+    }, {
+      "longitude" : 16.386712200050702,
+      "latitude" : 48.7199398998737
+    }, {
+      "longitude" : 16.384789699868,
+      "latitude" : 48.7213651003148
+    }, {
+      "longitude" : 16.38538960004,
+      "latitude" : 48.7217193995781
+    } ]
+  }, {
+    "cluster_id" : "5p0c6p2",
+    "cluster_id_kmeans" : "1",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.9069396000725,
+      "latitude" : 48.606363899933996
+    }, {
+      "longitude" : 16.9078211993101,
+      "latitude" : 48.6068952998129
+    }, {
+      "longitude" : 16.9069396000725,
+      "latitude" : 48.606368899934
+    }, {
+      "longitude" : 16.9078211993101,
+      "latitude" : 48.6068962998129
+    } ]
+  }, {
+    "cluster_id" : "0p1",
+    "cluster_id_kmeans" : "0",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.384941600203,
+      "latitude" : 48.7194059001707
+    }, {
+      "longitude" : 16.384394400197802,
+      "latitude" : 48.719726299692894
+    }, {
+      "longitude" : 16.384441700165503,
+      "latitude" : 48.719887999852205
+    } ]
+  }, {
+    "cluster_id" : "6p3",
+    "cluster_id_kmeans" : "1",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.828655699690202,
+      "latitude" : 48.6284467999028
+    }, {
+      "longitude" : 16.8291688999347,
+      "latitude" : 48.6276052999384
+    }, {
+      "longitude" : 16.8284950998518,
+      "latitude" : 48.6284192004151
+    } ]
+  }, {
+    "cluster_id" : "4p0",
+    "cluster_id_kmeans" : "1",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.7963996995414,
+      "latitude" : 48.6456150996482
+    }, {
+      "longitude" : 16.7963653006314,
+      "latitude" : 48.6454621003654
+    }, {
+      "longitude" : 16.796400699541397,
+      "latitude" : 48.6456120996482
+    } ]
+  }, {
+    "cluster_id" : "3p1",
+    "cluster_id_kmeans" : "2",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.7839730001616,
+      "latitude" : 48.6002229997862
+    }, {
+      "longitude" : 16.7837360004344,
+      "latitude" : 48.6013409997777
+    }, {
+      "longitude" : 16.7842480003208,
+      "latitude" : 48.601094000328494
+    } ]
+  }, {
+    "cluster_id" : "0p0",
+    "cluster_id_kmeans" : "2",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.5851096002192,
+      "latitude" : 48.720632499787
+    }, {
+      "longitude" : 16.5848859997703,
+      "latitude" : 48.7202320002312
+    }, {
+      "longitude" : 16.5849918994152,
+      "latitude" : 48.7193173998021
+    } ]
+  }, {
+    "cluster_id" : "1p0",
+    "cluster_id_kmeans" : "2",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.6812938995594,
+      "latitude" : 48.6966090997787
+    }, {
+      "longitude" : 16.682254500470403,
+      "latitude" : 48.6967877003386
+    }, {
+      "longitude" : 16.6829442997378,
+      "latitude" : 48.6974320003975
+    } ]
+  }, {
+    "cluster_id" : "3p2",
+    "cluster_id_kmeans" : "2",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.824492000099998,
+      "latitude" : 48.5965470002706
+    }, {
+      "longitude" : 16.823610000544,
+      "latitude" : 48.59818100016
+    }, {
+      "longitude" : 16.8241270002911,
+      "latitude" : 48.5974880001222
+    }, {
+      "longitude" : 16.8236070000784,
+      "latitude" : 48.5986420001435
+    } ]
+  }, {
+    "cluster_id" : "3p0",
+    "cluster_id_kmeans" : "2",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.8299691001904,
+      "latitude" : 48.627545500083
+    }, {
+      "longitude" : 16.8300705002907,
+      "latitude" : 48.6268661996617
+    }, {
+      "longitude" : 16.830001099976197,
+      "latitude" : 48.6260959002837
+    } ]
+  }, {
+    "cluster_id" : "6p0",
+    "cluster_id_kmeans" : "3",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.909904699477398,
+      "latitude" : 48.6099209001789
+    }, {
+      "longitude" : 16.9093421001615,
+      "latitude" : 48.6100580997788
+    }, {
+      "longitude" : 16.909242099543203,
+      "latitude" : 48.609149899866
+    }, {
+      "longitude" : 16.909453699954803,
+      "latitude" : 48.609911600440896
+    }, {
+      "longitude" : 16.910418699716,
+      "latitude" : 48.610256399864504
+    } ]
+  }, {
+    "cluster_id" : "3p0",
+    "cluster_id_kmeans" : "3",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.6286055998543,
+      "latitude" : 48.6667866002755
+    }, {
+      "longitude" : 16.6286075998543,
+      "latitude" : 48.6667846002755
+    }, {
+      "longitude" : 16.6279309002441,
+      "latitude" : 48.668316899591595
+    }, {
+      "longitude" : 16.628507100267402,
+      "latitude" : 48.667598499779295
+    } ]
+  }, {
+    "cluster_id" : "6p1",
+    "cluster_id_kmeans" : "3",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.8289950005307,
+      "latitude" : 48.6277869996548
+    }, {
+      "longitude" : 16.828300599521,
+      "latitude" : 48.6286854002111
+    }, {
+      "longitude" : 16.8282961006244,
+      "latitude" : 48.6287386997698
+    } ]
+  }, {
+    "cluster_id" : "5p0c6p2",
+    "cluster_id_kmeans" : "3",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.7609270005281,
+      "latitude" : 48.6124279996222
+    }, {
+      "longitude" : 16.7612610000951,
+      "latitude" : 48.612158999592
+    }, {
+      "longitude" : 16.761086200312903,
+      "latitude" : 48.6120293998373
+    } ]
+  }, {
+    "cluster_id" : "4p0",
+    "cluster_id_kmeans" : "3",
+    "poi_in_cluster" : [ {
+      "longitude" : 16.9031277005512,
+      "latitude" : 48.6449657001605
+    }, {
+      "longitude" : 16.903066899531098,
+      "latitude" : 48.6447083997182
+    }, {
+      "longitude" : 16.9034319993578,
+      "latitude" : 48.6443650002063
+    } ]
+  } ]
+}
